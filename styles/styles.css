@@ -89,6 +89,13 @@ input {
   /* centralo */
 
 }
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 #terms {
   width: 40px;
 }
@@ -97,4 +104,8 @@ input {
   flex-direction: row;
   align-items: center;
   gap: 10px;
+}
+#TableCenter {
+  margin-left: auto;
+  margin-right: auto;
 }
